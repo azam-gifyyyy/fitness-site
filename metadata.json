@@ -1,0 +1,6 @@
+{
+  "name": "MOTION HOUSE",
+  "description": "High-end urban athletic club and technical streetwear label. Built for movement. Made for progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
